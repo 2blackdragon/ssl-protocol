@@ -1,0 +1,332 @@
+2025-11-30 15:04:42,764 - [SERVER] Generated and saved new server private key to server_private_key.pem
+2025-11-30 15:04:53,417 - [SERVER] Created self-signed certificate: server_self_signed_cert_20251130_150453.cert
+2025-11-30 15:04:53,417 - [SERVER] Server certificate updated with new self-signed certificate
+2025-11-30 15:05:10,086 - [SERVER] Server started
+2025-11-30 15:05:10,095 - [SERVER] Server listening on localhost:8443
+2025-11-30 15:05:17,997 - [CLIENT] Generated and saved new client private key to client_private_key.pem
+2025-11-30 15:05:24,193 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:05:24,193 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:05:24,194 - [SERVER] Connection from ('127.0.0.1', 50918)
+2025-11-30 15:05:24,198 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:05:24,199 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:05:24,199 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:05:24,200 - [CLIENT] Server certificate verification failed
+2025-11-30 15:05:26,659 - [CLIENT] Connection error: Invalid server certificate
+2025-11-30 15:05:26,660 - [SERVER] Error handling client ('127.0.0.1', 50918): Ciphertext with incorrect length.
+2025-11-30 15:16:17,233 - [SERVER] Loaded server private key from file
+2025-11-30 15:16:19,829 - [SERVER] Self-signed certificate created: server_certificate.cert
+2025-11-30 15:16:30,515 - [SERVER] Server started
+2025-11-30 15:16:30,523 - [SERVER] Server listening on localhost:8443
+2025-11-30 15:16:58,178 - [CLIENT] Loaded client private key from file
+2025-11-30 15:17:02,879 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:17:02,880 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:17:02,881 - [SERVER] Connection from ('127.0.0.1', 50975)
+2025-11-30 15:17:02,885 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:17:02,886 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:17:02,886 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:17:02,887 - [CLIENT] Server certificate verification failed
+2025-11-30 15:17:04,231 - [CLIENT] Connection error: Invalid server certificate
+2025-11-30 15:17:04,232 - [SERVER] Error handling client ('127.0.0.1', 50975): Ciphertext with incorrect length.
+2025-11-30 15:20:46,117 - [SERVER] Loaded server private key from file
+2025-11-30 15:20:49,156 - [CLIENT] Loaded client private key from file
+2025-11-30 15:20:57,639 - [SERVER] Self-signed certificate created: server_certificate.cert
+2025-11-30 15:21:00,168 - [SERVER] Server started
+2025-11-30 15:21:00,176 - [SERVER] Server listening on localhost:8443
+2025-11-30 15:21:01,516 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:21:01,516 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:21:01,516 - [SERVER] Connection from ('127.0.0.1', 50994)
+2025-11-30 15:21:01,520 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:21:01,521 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:21:01,521 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:21:01,522 - [CLIENT] Server certificate verification failed
+2025-11-30 15:21:03,074 - [CLIENT] Connection error: Invalid server certificate
+2025-11-30 15:21:03,075 - [SERVER] Error handling client ('127.0.0.1', 50994): Ciphertext with incorrect length.
+2025-11-30 15:29:35,802 - [CLIENT] Loaded client private key from file
+2025-11-30 15:29:39,109 - [SERVER] Loaded server private key from file
+2025-11-30 15:29:39,112 - [SERVER] Loaded server certificate from file
+2025-11-30 15:29:50,626 - [SERVER] Server started
+2025-11-30 15:29:50,631 - [SERVER] Server listening on localhost:8443
+2025-11-30 15:29:52,319 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:29:52,319 - [SERVER] Connection from ('127.0.0.1', 51032)
+2025-11-30 15:29:52,319 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:29:52,323 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:29:52,323 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:29:52,324 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:29:52,325 - [CLIENT] Server certificate verification failed
+2025-11-30 15:29:53,834 - [CLIENT] Connection error: Invalid server certificate
+2025-11-30 15:29:53,835 - [SERVER] Error handling client ('127.0.0.1', 51032): Ciphertext with incorrect length.
+2025-11-30 15:29:54,701 - [SERVER] Self-signed certificate created: server_certificate.cert
+2025-11-30 15:29:57,691 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:29:57,693 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:29:57,693 - [SERVER] Connection from ('127.0.0.1', 51034)
+2025-11-30 15:29:57,703 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:29:57,704 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:29:57,705 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:29:57,707 - [CLIENT] Server certificate verified (self-signed)
+2025-11-30 15:29:57,710 - [CLIENT] Sent encrypted AES and MAC keys
+2025-11-30 15:29:57,717 - [SERVER] Received and decrypted AES and MAC keys
+2025-11-30 15:29:57,718 - [CLIENT] Received and verified Server Finished
+2025-11-30 15:29:57,718 - [SERVER] Sent Finished message: b9d7fb5b129852c3d8f1de619b57ae9fd916be1154776b5f46c63fbf797d8654
+2025-11-30 15:29:57,718 - [CLIENT] Sent Client Finished: b9d7fb5b129852c3d8f1de619b57ae9fd916be1154776b5f46c63fbf797d8654
+2025-11-30 15:29:57,719 - [SERVER] Received and verified Client Finished
+2025-11-30 15:29:57,719 - [CLIENT] Handshake response: Handshake Complete
+2025-11-30 15:29:57,720 - [SERVER] Handshake completed
+2025-11-30 15:30:03,505 - [CLIENT] Disconnected
+2025-11-30 15:30:03,505 - [SERVER] Client ('127.0.0.1', 51034) disconnected
+2025-11-30 15:30:07,184 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:30:07,185 - [SERVER] Connection from ('127.0.0.1', 51036)
+2025-11-30 15:30:07,185 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:30:07,193 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:30:07,194 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:30:07,194 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:30:07,198 - [CLIENT] Server certificate verified (self-signed)
+2025-11-30 15:30:07,206 - [CLIENT] Sent encrypted AES and MAC keys
+2025-11-30 15:30:07,207 - [SERVER] Client certificate verified (self-signed)
+2025-11-30 15:30:07,213 - [SERVER] Client handshake signature verified
+2025-11-30 15:30:07,218 - [SERVER] Received and decrypted AES and MAC keys
+2025-11-30 15:30:07,219 - [SERVER] Sent Finished message: 8d8875b54053348647a206e47abca40bda5c3b57df286a12e5e95351ad95dd3d
+2025-11-30 15:30:07,219 - [CLIENT] Received and verified Server Finished
+2025-11-30 15:30:07,220 - [CLIENT] Sent Client Finished: 8d8875b54053348647a206e47abca40bda5c3b57df286a12e5e95351ad95dd3d
+2025-11-30 15:30:07,220 - [SERVER] Received and verified Client Finished
+2025-11-30 15:30:07,220 - [CLIENT] Handshake response: Handshake Complete
+2025-11-30 15:30:07,221 - [SERVER] Handshake completed
+2025-11-30 15:30:19,317 - [CLIENT] Server disconnected
+2025-11-30 15:30:19,321 - [CLIENT] Disconnected
+2025-11-30 15:35:30,111 - [CLIENT] Generated and saved new client private key to client_private_key.pem
+2025-11-30 15:35:30,117 - [CLIENT] Created default client certificate
+2025-11-30 15:35:30,508 - [SERVER] Generated and saved new server private key to server_private_key.pem
+2025-11-30 15:35:30,513 - [SERVER] Created default server certificate
+2025-11-30 15:35:35,907 - [SERVER] Server started
+2025-11-30 15:35:35,911 - [SERVER] Server listening on localhost:8443
+2025-11-30 15:35:37,379 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:35:37,379 - [SERVER] Connection from ('127.0.0.1', 51075)
+2025-11-30 15:35:37,379 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:35:37,383 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:35:37,383 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:35:37,384 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:35:37,385 - [CLIENT] Server certificate verified (self-signed)
+2025-11-30 15:35:37,386 - [CLIENT] Sent encrypted AES and MAC keys
+2025-11-30 15:35:37,390 - [SERVER] Received and decrypted AES and MAC keys
+2025-11-30 15:35:37,391 - [CLIENT] Received and verified Server Finished
+2025-11-30 15:35:37,391 - [CLIENT] Sent Client Finished: eac372b329388ff89dd494ac8593148d8b9b63235e99e8fb4acdf1cd5a8a24d2
+2025-11-30 15:35:37,395 - [SERVER] Sent Finished message: eac372b329388ff89dd494ac8593148d8b9b63235e99e8fb4acdf1cd5a8a24d2
+2025-11-30 15:35:37,395 - [SERVER] Received and verified Client Finished
+2025-11-30 15:35:37,396 - [CLIENT] Handshake response: Handshake Complete
+2025-11-30 15:35:37,396 - [SERVER] Handshake completed
+2025-11-30 15:36:01,228 - [CLIENT] Disconnected
+2025-11-30 15:36:01,228 - [SERVER] Client ('127.0.0.1', 51075) disconnected
+2025-11-30 15:36:02,010 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:36:02,011 - [SERVER] Connection from ('127.0.0.1', 51079)
+2025-11-30 15:36:02,012 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:36:02,019 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:36:02,021 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:36:02,021 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:36:02,023 - [CLIENT] Server certificate verified (self-signed)
+2025-11-30 15:36:02,025 - [CLIENT] Sent encrypted AES and MAC keys
+2025-11-30 15:36:02,032 - [SERVER] Received and decrypted AES and MAC keys
+2025-11-30 15:36:02,033 - [CLIENT] Received and verified Server Finished
+2025-11-30 15:36:02,033 - [SERVER] Sent Finished message: 3805ced42a9d9cb7988b5d8518079cd12fbfc0ef2f5a9d530e424f1822182ac7
+2025-11-30 15:36:02,033 - [CLIENT] Sent Client Finished: 3805ced42a9d9cb7988b5d8518079cd12fbfc0ef2f5a9d530e424f1822182ac7
+2025-11-30 15:36:02,034 - [SERVER] Received and verified Client Finished
+2025-11-30 15:36:02,035 - [CLIENT] Handshake response: Handshake Complete
+2025-11-30 15:36:02,035 - [SERVER] Handshake completed
+2025-11-30 15:36:53,688 - [SERVER] Client ('127.0.0.1', 51079) disconnected
+2025-11-30 15:50:29,975 - [SERVER] Generated and saved new server private key to server_private_key.pem
+2025-11-30 15:50:29,977 - [SERVER] No server certificate found
+2025-11-30 15:50:30,083 - [CLIENT] Generated and saved new client private key to client_private_key.pem
+2025-11-30 15:50:30,083 - [CLIENT] No client certificate found
+2025-11-30 15:50:37,037 - [SERVER] Server started
+2025-11-30 15:50:37,041 - [SERVER] Server listening on localhost:8443
+2025-11-30 15:50:38,393 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:50:38,393 - [SERVER] Connection from ('127.0.0.1', 51146)
+2025-11-30 15:50:38,394 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:50:38,397 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:50:38,398 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:50:38,398 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:50:38,399 - [CLIENT] Using server public key directly
+2025-11-30 15:50:38,400 - [CLIENT] Sent encrypted AES and MAC keys
+2025-11-30 15:50:38,404 - [SERVER] Received and decrypted AES and MAC keys
+2025-11-30 15:50:38,405 - [CLIENT] Received and verified Server Finished
+2025-11-30 15:50:38,405 - [SERVER] Sent Finished message: bf795f3ee300c55de4f8c7922a7dc07ba87f5e7629f0c1aeda6fb2796988b6ab
+2025-11-30 15:50:38,405 - [CLIENT] Sent Client Finished: bf795f3ee300c55de4f8c7922a7dc07ba87f5e7629f0c1aeda6fb2796988b6ab
+2025-11-30 15:50:38,406 - [SERVER] Received and verified Client Finished
+2025-11-30 15:50:38,406 - [CLIENT] Handshake response: Handshake Complete
+2025-11-30 15:50:38,410 - [SERVER] Handshake completed
+2025-11-30 15:50:59,044 - [CLIENT] Disconnected
+2025-11-30 15:50:59,044 - [SERVER] Client ('127.0.0.1', 51146) disconnected
+2025-11-30 15:51:00,685 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:51:00,686 - [SERVER] Connection from ('127.0.0.1', 51150)
+2025-11-30 15:51:00,687 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:00,695 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:00,696 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:51:00,697 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:51:00,698 - [CLIENT] Using server public key directly
+2025-11-30 15:51:00,700 - [CLIENT] Sent encrypted AES and MAC keys
+2025-11-30 15:51:00,711 - [SERVER] Received and decrypted AES and MAC keys
+2025-11-30 15:51:00,712 - [CLIENT] Received and verified Server Finished
+2025-11-30 15:51:00,713 - [SERVER] Sent Finished message: 8ba3f08abace4f513f727f751717cfe196f1f4d77933910ec2a165e328a56559
+2025-11-30 15:51:00,713 - [CLIENT] Sent Client Finished: 8ba3f08abace4f513f727f751717cfe196f1f4d77933910ec2a165e328a56559
+2025-11-30 15:51:00,714 - [SERVER] Received and verified Client Finished
+2025-11-30 15:51:00,714 - [CLIENT] Handshake response: Handshake Complete
+2025-11-30 15:51:00,714 - [SERVER] Handshake completed
+2025-11-30 15:51:19,900 - [SERVER] Client ('127.0.0.1', 51150) disconnected
+2025-11-30 15:51:24,779 - [SERVER] Generated and saved new server private key to server_private_key.pem
+2025-11-30 15:51:24,780 - [SERVER] No server certificate found
+2025-11-30 15:51:25,286 - [CLIENT] Generated and saved new client private key to client_private_key.pem
+2025-11-30 15:51:25,287 - [CLIENT] No client certificate found
+2025-11-30 15:51:30,387 - [CLIENT] Connection error: [Errno 61] Connection refused
+2025-11-30 15:51:31,486 - [SERVER] Server started
+2025-11-30 15:51:31,490 - [SERVER] Server listening on localhost:8443
+2025-11-30 15:51:32,791 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:51:32,792 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:32,792 - [SERVER] Connection from ('127.0.0.1', 51156)
+2025-11-30 15:51:32,799 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:32,800 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:51:32,800 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-11-30 15:51:32,802 - [CLIENT] Using server public key directly
+2025-11-30 15:51:32,804 - [CLIENT] Sent encrypted AES and MAC keys
+2025-11-30 15:51:32,813 - [SERVER] Received and decrypted AES and MAC keys
+2025-11-30 15:51:32,814 - [CLIENT] Received and verified Server Finished
+2025-11-30 15:51:32,814 - [SERVER] Sent Finished message: 41a44565aacdea9711c616d2cb53faf8003398e706c88467290ce4637a3c322c
+2025-11-30 15:51:32,814 - [CLIENT] Sent Client Finished: 41a44565aacdea9711c616d2cb53faf8003398e706c88467290ce4637a3c322c
+2025-11-30 15:51:32,815 - [SERVER] Received and verified Client Finished
+2025-11-30 15:51:32,815 - [CLIENT] Handshake response: Handshake Complete
+2025-11-30 15:51:32,816 - [SERVER] Handshake completed
+2025-11-30 15:51:40,501 - [CLIENT] Disconnected
+2025-11-30 15:51:40,501 - [SERVER] Client ('127.0.0.1', 51156) disconnected
+2025-11-30 15:51:41,480 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:51:41,481 - [SERVER] Connection from ('127.0.0.1', 51158)
+2025-11-30 15:51:41,482 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:41,489 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:41,491 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:51:41,491 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:51:41,492 - [CLIENT] Using server public key directly
+2025-11-30 15:51:41,493 - [CLIENT] Client authentication required but no certificate available
+2025-11-30 15:51:44,538 - [CLIENT] Connection error: Client certificate required but not available
+2025-11-30 15:51:44,539 - [SERVER] No client certificate received
+2025-11-30 15:51:44,543 - [SERVER] Error handling client ('127.0.0.1', 51158): Client certificate required but not provided
+2025-11-30 15:51:47,495 - [CLIENT] Self-signed certificate created: client_certificate.cert
+2025-11-30 15:51:50,323 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:51:50,323 - [SERVER] Connection from ('127.0.0.1', 51162)
+2025-11-30 15:51:50,324 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:50,331 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:50,333 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:51:50,333 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:51:50,334 - [CLIENT] Using server public key directly
+2025-11-30 15:51:50,335 - [CLIENT] Client authentication required but no certificate available
+2025-11-30 15:51:53,315 - [CLIENT] Connection error: Client certificate required but not available
+2025-11-30 15:51:53,316 - [SERVER] No client certificate received
+2025-11-30 15:51:53,321 - [SERVER] Error handling client ('127.0.0.1', 51162): Client certificate required but not provided
+2025-11-30 15:51:56,387 - [CLIENT] Connected to localhost:8443
+2025-11-30 15:51:56,387 - [SERVER] Connection from ('127.0.0.1', 51164)
+2025-11-30 15:51:56,388 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:56,396 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-11-30 15:51:56,403 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:51:56,403 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=True
+2025-11-30 15:51:56,404 - [CLIENT] Using server public key directly
+2025-11-30 15:51:56,405 - [CLIENT] Client authentication required but no certificate available
+2025-11-30 15:51:58,191 - [CLIENT] Connection error: Client certificate required but not available
+2025-11-30 15:51:58,192 - [SERVER] No client certificate received
+2025-11-30 15:51:58,197 - [SERVER] Error handling client ('127.0.0.1', 51164): Client certificate required but not provided
+2025-12-04 11:30:51,123 - [SERVER] Generated and saved certificate to ./server_certificate.pem
+2025-12-04 11:30:51,123 - [SERVER] Saved private key to ./server_private_key.pem
+2025-12-04 11:30:52,869 - [SERVER] Server started
+2025-12-04 11:30:52,880 - [SERVER] Server listening on localhost:8443
+2025-12-04 11:31:41,411 - [SERVER] Generated and saved certificate to ./server_certificate.pem
+2025-12-04 11:31:41,411 - [SERVER] Saved private key to ./server_private_key.pem
+2025-12-04 11:31:50,315 - [SERVER] Server started
+2025-12-04 11:31:50,321 - [SERVER] Server listening on localhost:8443
+2025-12-04 11:31:54,968 - [SERVER] Loaded certificate from ./server_certificate.pem
+2025-12-04 11:31:54,968 - [SERVER] Certificate subject: SSL Server Certificate
+2025-12-04 11:33:17,845 - [CLIENT] Generated and saved certificate to ./client_certificate.pem
+2025-12-04 11:33:17,845 - [CLIENT] Saved private key to ./client_private_key.pem
+2025-12-04 11:33:21,598 - [CLIENT] Connected to localhost:8443
+2025-12-04 11:33:21,599 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:33:21,599 - [SERVER] Connection from ('127.0.0.1', 51900)
+2025-12-04 11:33:21,606 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:33:21,607 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-12-04 11:33:21,607 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth=False
+2025-12-04 11:33:21,609 - [CLIENT] Server certificate verified (self-signed)
+2025-12-04 11:33:21,609 - [CLIENT] Server certificate subject: SSL Server Certificate
+2025-12-04 11:33:21,611 - [CLIENT] Sent encrypted AES and MAC keys
+2025-12-04 11:33:21,617 - [SERVER] Received and decrypted AES and MAC keys
+2025-12-04 11:33:21,617 - [CLIENT] Received and verified Server Finished
+2025-12-04 11:33:21,618 - [CLIENT] Sent Client Finished: cc9b39524d62316fe967ed26355f2bb8649ae5b1ce6576b01e40f00ca2e4f83c
+2025-12-04 11:33:21,618 - [SERVER] Sent Finished message: cc9b39524d62316fe967ed26355f2bb8649ae5b1ce6576b01e40f00ca2e4f83c
+2025-12-04 11:33:21,619 - [SERVER] Received and verified Client Finished
+2025-12-04 11:33:21,619 - [CLIENT] Handshake response: Handshake Complete
+2025-12-04 11:33:21,619 - [SERVER] Handshake completed
+2025-12-04 11:33:38,861 - [CLIENT] Disconnected
+2025-12-04 11:33:38,862 - [SERVER] Client ('127.0.0.1', 51900) disconnected
+2025-12-04 11:51:10,018 - [SERVER] Generated and saved certificate to ./server_certificate.pem
+2025-12-04 11:51:10,019 - [SERVER] Saved private key to ./server_private_key.pem
+2025-12-04 11:51:12,071 - [SERVER] Server started
+2025-12-04 11:51:12,079 - [SERVER] Server listening on localhost:8443
+2025-12-04 11:51:14,734 - [CLIENT] Connected to localhost:8443
+2025-12-04 11:51:14,734 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:51:14,734 - [SERVER] Connection from ('127.0.0.1', 51936)
+2025-12-04 11:51:14,739 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:51:14,740 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth Required=False
+2025-12-04 11:51:14,740 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth Required=False
+2025-12-04 11:51:14,745 - [CLIENT] Server certificate verified (self-signed)
+2025-12-04 11:51:14,746 - [CLIENT] Server certificate subject: SSL Server Certificate
+2025-12-04 11:51:14,747 - [CLIENT] Sent encrypted AES and MAC keys
+2025-12-04 11:51:14,751 - [SERVER] Received and decrypted AES and MAC keys
+2025-12-04 11:51:14,751 - [CLIENT] Received and verified Server Finished
+2025-12-04 11:51:14,752 - [CLIENT] Sent Client Finished: 31a1a67776c559ebb6d5ef025591c91a04bf4ae4cd89fc5bab358c664aee7279
+2025-12-04 11:51:14,752 - [SERVER] Sent Server Finished message: 31a1a67776c559ebb6d5ef025591c91a04bf4ae4cd89fc5bab358c664aee7279
+2025-12-04 11:51:14,753 - [SERVER] Received and verified Client Finished
+2025-12-04 11:51:14,753 - [CLIENT] Handshake response: Handshake Complete
+2025-12-04 11:51:14,753 - [SERVER] Handshake completed
+2025-12-04 11:51:20,829 - [CLIENT] Disconnected
+2025-12-04 11:51:20,837 - [SERVER] Client ('127.0.0.1', 51936) disconnected
+2025-12-04 11:51:21,549 - [CLIENT] Connected to localhost:8443
+2025-12-04 11:51:21,550 - [SERVER] Connection from ('127.0.0.1', 51938)
+2025-12-04 11:51:21,550 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:51:21,558 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:51:21,560 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth Required=True
+2025-12-04 11:51:21,560 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth Required=True
+2025-12-04 11:51:21,562 - [CLIENT] Server certificate verified (self-signed)
+2025-12-04 11:51:21,563 - [CLIENT] Server certificate subject: SSL Server Certificate
+2025-12-04 11:51:21,563 - [CLIENT] Server requires client authentication but no client certificate loaded
+2025-12-04 11:51:29,144 - [CLIENT] Connection error: Client certificate required but not available
+2025-12-04 11:51:29,145 - [SERVER] Client did not send certificate
+2025-12-04 11:51:31,948 - [CLIENT] Generated and saved certificate to ./client_certificate.pem
+2025-12-04 11:51:31,949 - [CLIENT] Saved private key to ./client_private_key.pem
+2025-12-04 11:51:33,967 - [CLIENT] Connected to localhost:8443
+2025-12-04 11:51:33,968 - [SERVER] Connection from ('127.0.0.1', 51940)
+2025-12-04 11:51:33,968 - [CLIENT] Sent ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:51:33,976 - [SERVER] Received ClientHello: Version=SSL demo version, Ciphers=['AES_256_CBC']
+2025-12-04 11:51:33,978 - [CLIENT] Received ServerHello: Cipher=AES_256_CBC, Client Auth Required=True
+2025-12-04 11:51:33,978 - [SERVER] Sent ServerHello: Cipher=AES_256_CBC, Client Auth Required=True
+2025-12-04 11:51:33,980 - [CLIENT] Server certificate verified (self-signed)
+2025-12-04 11:51:33,981 - [CLIENT] Server certificate subject: SSL Server Certificate
+2025-12-04 11:51:33,986 - [SERVER] Client certificate verified (self-signed)
+2025-12-04 11:51:33,987 - [CLIENT] Sent client certificate and handshake signature
+2025-12-04 11:51:33,989 - [SERVER] Client handshake signature verified
+2025-12-04 11:51:33,989 - [CLIENT] Sent encrypted AES and MAC keys
+2025-12-04 11:51:33,994 - [SERVER] Received and decrypted AES and MAC keys
+2025-12-04 11:51:33,995 - [CLIENT] Received and verified Server Finished
+2025-12-04 11:51:33,995 - [SERVER] Sent Server Finished message: b5cdd0161d5f94f568f1156ed8607c47a201b218f157a0ed077b29e1984fd031
+2025-12-04 11:51:33,995 - [CLIENT] Sent Client Finished: b5cdd0161d5f94f568f1156ed8607c47a201b218f157a0ed077b29e1984fd031
+2025-12-04 11:51:34,000 - [SERVER] Received and verified Client Finished
+2025-12-04 11:51:34,001 - [CLIENT] Handshake response: Handshake Complete
+2025-12-04 11:51:34,001 - [SERVER] Handshake completed
+2025-12-04 11:51:55,069 - [SERVER] Encrypted data: b536483b911e9c206dc0cbec374c6b02fb5901265b4e9c196bd4394bbb54940d296e9856385a0b5406775c9cbe9a07dc9ca6ab1bb59a2cc420a1d51d327860afa132ffd44114d743f93e2c05d30e811f
+2025-12-04 11:51:55,070 - [SERVER] Sent (encrypted): b536483b911e9c206dc0cbec374c6b02fb5901265b4e9c196bd4394bbb54940d296e9856385a0b5406775c9cbe9a07dc9ca6ab1bb59a2cc420a1d51d327860afa132ffd44114d743f93e2c05d30e811f
+2025-12-04 11:51:55,071 - [CLIENT] MAC verified successfully
+2025-12-04 11:51:55,079 - [CLIENT] Received (encrypted): b536483b911e9c206dc0cbec374c6b02fb5901265b4e9c196bd4394bbb54940d296e9856385a0b5406775c9cbe9a07dc9ca6ab1bb59a2cc420a1d51d327860afa132ffd44114d743f93e2c05d30e811f
+2025-12-04 11:51:55,086 - [CLIENT] Decrypted: привет клиент
+2025-12-04 11:52:02,027 - [CLIENT] Encrypted data: 58b3bfab84c073421382f7b9b46262eae556ae913821af3b2907eae27ab5e27e7e03d621d2d8d46f383a3ceca8f71a8b9eee43c8c83fb12f7e49c4b5a00fcb74258bbfcbb2832a7fa8c2557132537f67
+2025-12-04 11:52:02,029 - [CLIENT] Sent (encrypted): 58b3bfab84c073421382f7b9b46262eae556ae913821af3b2907eae27ab5e27e7e03d621d2d8d46f383a3ceca8f71a8b9eee43c8c83fb12f7e49c4b5a00fcb74258bbfcbb2832a7fa8c2557132537f67
+2025-12-04 11:52:02,030 - [SERVER] MAC verified successfully
+2025-12-04 11:52:02,039 - [SERVER] Received (encrypted): 58b3bfab84c073421382f7b9b46262eae556ae913821af3b2907eae27ab5e27e7e03d621d2d8d46f383a3ceca8f71a8b9eee43c8c83fb12f7e49c4b5a00fcb74258bbfcbb2832a7fa8c2557132537f67
+2025-12-04 11:52:02,041 - [SERVER] Decrypted: привет сервер
+2025-12-04 11:52:02,043 - [SERVER] Encrypted data: d20b84c6b8d07bc8ff739d8e2e63ceaf3ae05ca41044520dbc9f4e8497b0ab4a2d5d12ce7fdefe6e108bdd65dc2e793c7d176fa6d03eacd76afb0b65b38eaa34b04385a3c24846a4a7d0b2bb6f4527b971a0492da58dc1af544231e0b78e0e12
+2025-12-04 11:52:02,044 - [SERVER] Sent (encrypted): d20b84c6b8d07bc8ff739d8e2e63ceaf3ae05ca41044520dbc9f4e8497b0ab4a2d5d12ce7fdefe6e108bdd65dc2e793c7d176fa6d03eacd76afb0b65b38eaa34b04385a3c24846a4a7d0b2bb6f4527b971a0492da58dc1af544231e0b78e0e12
+2025-12-04 11:52:02,044 - [CLIENT] MAC verified successfully
+2025-12-04 11:52:02,046 - [CLIENT] Received (encrypted): d20b84c6b8d07bc8ff739d8e2e63ceaf3ae05ca41044520dbc9f4e8497b0ab4a2d5d12ce7fdefe6e108bdd65dc2e793c7d176fa6d03eacd76afb0b65b38eaa34b04385a3c24846a4a7d0b2bb6f4527b971a0492da58dc1af544231e0b78e0e12
+2025-12-04 11:52:02,053 - [CLIENT] Decrypted: Server response to привет сервер
+2025-12-04 11:52:14,291 - [SERVER] Server stopped
+2025-12-04 11:52:14,313 - [CLIENT] Server disconnected
+2025-12-04 11:52:14,324 - [CLIENT] Disconnected
